@@ -16,6 +16,9 @@ a:active {
 
 body {
   background: #f9f9f9;
+  min-width: 230px;
+  max-width: 550px;
+  margin: 30px auto;
   background-image: url("../img/bk.jpg");
   background-color: #868e96;
   background-size: cover;
