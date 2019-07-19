@@ -51,10 +51,10 @@ header h1 {
 
 .main .newItem {
   border: 1px gray solid;
-  width: 90%;
+  width: 95%;
   height: 40px;
   font-size: 20px;
-  margin: 10px 10px;
+  margin: 10px auto;
 }
 
 .main ul {
